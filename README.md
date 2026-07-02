@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
+<h1 align="center">Hi 👋, I'm Mohammadd Kaif</h1>
 
 <h3 align="center">
 📊 Aspiring Data Analyst | 💻 Web Developer | 📈 Future Data Scientist
@@ -43,7 +43,6 @@ My long-term goal is to grow from a **Data Analyst** into a **Data Scientist**, 
 ### 🌐 Frontend
 - HTML5
 - CSS3
-- Bootstrap
 - JavaScript
 - Responsive Web Design
 
@@ -85,18 +84,13 @@ My long-term goal is to grow from a **Data Analyst** into a **Data Scientist**, 
 ₿ **Bitcoin 10 Years History**
 - Historical trend analysis
 - Data visualization using Python
-
-🌐 **Web Development Projects**
-- Responsive websites
-- Modern UI designs
-- Bootstrap-based applications
-
+- 
 ---
 
 ## 🎯 2026 Goals
 
 - ✅ Become a Job-Ready Data Analyst
-- ✅ Build 30+ Real-World Projects
+- ✅ Build 20+ Real-World Projects
 - ✅ Master SQL & PostgreSQL
 - ✅ Create Professional Power BI Dashboards
 - ✅ Improve Python for Data Analytics
@@ -118,7 +112,6 @@ Although I don't have industry experience yet, I'm actively building practical p
 I'm always open to collaborating on:
 
 - 📊 Data Analytics Projects
-- 🌐 Web Development Projects
 - 🤝 Open Source Contributions
 - 💼 Internship & Entry-Level Opportunities
 
